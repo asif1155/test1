@@ -7,6 +7,8 @@ Two databse context
 
 DTO, Repository used
 
+JWT token, CORS set at API
+
 # Angular 8 Client
 Angular Material used
 
