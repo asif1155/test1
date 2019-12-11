@@ -1,0 +1,657 @@
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+D:\temp_pj\MyApp\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+D:\temp_pj\MyApp\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\DELL\Downloads\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CoreCompileInputs.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.deps.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.runtimeconfig.dev.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\bin\Debug\netcoreapp2.2\MyLibrary.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csprojAssemblyReference.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorAssemblyInfo.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfoInputs.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.AssemblyInfo.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.input.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.TagHelpers.output.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorCoreGenerate.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.RazorTargetAssemblyInfo.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.Views.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.csproj.CopyComplete
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Api\obj\Debug\netcoreapp2.2\MyApp.Api.pdb

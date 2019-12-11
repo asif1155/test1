@@ -1,0 +1,136 @@
+D:\temp_pj\MyApp\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+D:\temp_pj\MyApp\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\temp_pj\MyApp\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\temp_pj\MyApp\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+D:\temp_pj\MyApp\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+D:\temp_pj\MyApp\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+D:\temp_pj\MyApp\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\temp_pj\MyApp\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\R-40\Downloads\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Downloads\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\R-40\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\R-40\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\DELL\Downloads\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\DELL\Downloads\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\DELL\Downloads\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csproj.CoreCompileInputs.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.deps.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfoInputs.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.AssemblyInfo.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Identity\obj\Debug\netcoreapp2.2\MyApp.Identity.csprojAssemblyReference.cache

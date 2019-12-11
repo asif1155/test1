@@ -1,0 +1,250 @@
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+D:\temp_pj\MyApp\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+D:\temp_pj\MyApp\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+D:\temp_pj\MyApp\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+D:\temp_pj\MyApp\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+D:\temp_pj\MyApp\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+D:\temp_pj\MyApp\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\temp_pj\MyApp\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+F:\IDB\m11___Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\Files\m10___WebAPI\R40_Final_PJ\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\Final Project\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\DELL\Downloads\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\DELL\Downloads\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\Final Project Round 40(USSL)\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\udoy1\Desktop\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\R-40\Desktop\IdentityInCore\MyApp\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CoreCompileInputs.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+D:\ARIFUL ISLAM\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\idb\Desktop\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+F:\IDB\m11___Project\R40\Project Final\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.deps.json
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Repo.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DAL.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.DTO.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Identity.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\bin\Debug\netcoreapp2.2\MyApp.Library.pdb
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csprojAssemblyReference.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfoInputs.cache
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.AssemblyInfo.cs
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.csproj.CopyComplete
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.dll
+C:\Users\idb\Desktop\temp\FullStack\Server\MyApp.Repo\obj\Debug\netcoreapp2.2\MyApp.Repo.pdb
