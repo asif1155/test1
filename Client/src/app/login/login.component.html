@@ -1,0 +1,21 @@
+
+<div class="midContent"><img src="/assets/login.jpg" /></div>
+
+
+<form [formGroup]="loginForm" (ngSubmit)="onSubmit()" novalidate>
+  <div class="example-container">
+    <mat-form-field>
+      <input matInput placeholder="Email" formControlName="email">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput type="password" placeholder="Password" formControlName="password">    
+    </mat-form-field>
+
+    <button [disabled]="!loginForm.valid" mat-raised-button color="primary" mat-button>Sign In</button>
+  </div>
+</form>
+
+<pre>
+{{loginForm.value | json }}
+</pre>
